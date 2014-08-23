@@ -2584,6 +2584,8 @@
  #define SDSS 53
  #define LED_PIN 13
 
+ #define FAN_SOFT_PWM
+
  #define FAN_PIN 39
  #define FAN1_PIN 35
  #define FAN2_PIN 36
